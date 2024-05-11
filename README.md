@@ -3,7 +3,8 @@ DOSA e NETUNO
 Dois chatbots desenvolvidos para publicos destintos. 
 
 DOSA foca no jovem adulto que ainda não está muito bem preparado para viver sozinho.
-já o NETUNO é focado no publico da melhor idade, que tem seus altos e baixos com a tecnologia e por isso um local onde eles podem apenas perguntar e já ter a resposta é o ideal.
+
+Já o NETUNO é focado no publico da melhor idade, que tem seus altos e baixos com a tecnologia e por isso um local onde eles podem apenas perguntar e já ter a resposta é o ideal.
 
 Ambos chats devem ser incorporados ou em um APP exclusivo para maior praticidade e/ou em uma Web Page para acesso de qualquer dispositivo.
 
